@@ -1,0 +1,8 @@
+Directions
+- Write a code in MATLAB that calculates the DoF of a planar or spatial robot manipulator by taking the parameters from the user (m, N, and J), identify if the robot is planar or spatial, and calculate the DoF. You must print out the results in a meaningful way
+- To publish this code, you can use one set of arbitrary default values for these parameters and comment out the code's user input lines.
+
+What To Include
+- Any output should be included in the published report.
+- Check for errors in user input.
+- 
