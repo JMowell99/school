@@ -5,4 +5,3 @@ Directions
 What To Include
 - Any output should be included in the published report.
 - Check for errors in user input.
-- 
